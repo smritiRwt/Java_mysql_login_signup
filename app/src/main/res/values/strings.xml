@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android_mysql</string>
+    <string name="enteruser">enter user name</string>
+    <string name="enterpassword">enter password</string>
+    <string name="enteremail">enter email</string>
+    <string name="signup">Signup</string>
+    <string name="signuptitle">Signup form</string>
+    <string name="alreadyaccount">Already had account ? click here to login</string>
+    <string name="imagelogo">ImageLogo</string>
+    <string name="Login">Login</string>
+    <string name="donthaveaccount">"Don't have accountc ? click here to register "</string>
+    <string name="Username">Username : </string>
+    <string name="email">Email id :</string>
+    <string name="logout">Logout</string>
+</resources>
